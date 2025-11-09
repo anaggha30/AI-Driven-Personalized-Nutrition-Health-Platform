@@ -128,7 +128,7 @@ Example:
 ## 👩‍💻 Author
 **Anagha Anil Dakre**  
 📍 *Chicago State University | AI/ML Engineer*  
-🔗 [LinkedIn](https://www.linkedin.com/in/anaggha30) • [GitHub](https://github.com/anaggha30)
+🔗 [LinkedIn](https://www.linkedin.com/in/anagghadakre/) • [GitHub](https://github.com/anaggha30)
 
 ---
 
