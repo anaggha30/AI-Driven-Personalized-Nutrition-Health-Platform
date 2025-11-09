@@ -41,3 +41,54 @@ Built with a **Next.js frontend**, **Flask backend**, and **PostgreSQL database*
 ---
 
 ## 🏗️ Architecture Overview
+Frontend (Next.js) → Flask REST API → PostgreSQL Database
+↓
+Machine Learning Model (Joblib)
+↓
+Google Generative AI (Gemini)
+---
+
+## ⚡ Installation & Setup
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/anaggha30/AI-Driven-Personalized-Nutrition-Health-Platform.git
+cd AI-Driven-Personalized-Nutrition-Health-Platform
+**###** ****
+**###**
+Frontend (Next.js) → Flask REST API → PostgreSQL Database
+↓
+Machine Learning Model (Joblib)
+↓
+Google Generative AI (Gemini)
+
+
+---
+
+## ⚡ Installation & Setup
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/anaggha30/AI-Driven-Personalized-Nutrition-Health-Platform.git
+cd AI-Driven-Personalized-Nutrition-Health-Platform
+
+2️⃣ Backend Setup
+cd backend
+pip install -r requirements.txt
+python app.py
+
+3️⃣ Frontend Setup
+cd frontend
+npm install
+npm run dev
+
+
+Then open http://localhost:3000
+
+🧠 AI / ML Components
+
+Uses pre-trained models for BMI prediction and nutrition classification
+
+Integrates Google Gemini API for conversational diet recommendations
+
+Supports real-time health queries through a Flask-based chat endpoint
