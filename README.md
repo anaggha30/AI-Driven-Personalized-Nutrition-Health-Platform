@@ -47,6 +47,7 @@ Frontend (Next.js)  →  Flask REST API  →  PostgreSQL Database
                            ↓
                    Google Generative AI (Gemini)
 
+
 ⚡ Installation
 1. Clone the repository
 git clone https://github.com/anaggha30/AI-Driven-Personalized-Nutrition-Health-Platform.git
