@@ -113,25 +113,6 @@ Then open [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 📸 Screenshots
-_Add your screenshots here (e.g., Dashboard, Chat Interface, Login Page)_  
-Example:
-```
-/screenshots
- ├── dashboard.png
- ├── login.png
- └── chat.png
-```
-
----
-
-## 👩‍💻 Author
-**Anagha Anil Dakre**  
-📍 *Chicago State University | AI/ML Engineer*  
-🔗 [LinkedIn](https://www.linkedin.com/in/anagghadakre/) • [GitHub](https://github.com/anaggha30)
-
----
-
 ## 🏁 Future Enhancements
 - Add calorie tracking and fitness plan generator  
 - Integrate wearable device data (Fitbit API)  
